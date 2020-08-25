@@ -8,7 +8,7 @@ public class First_Method {
         //executar o método - chamar o método;
         double resp = somaValor(10.5, 10.5);
         
-        System.out.println("A soma é igual a: "+resp)
+        System.out.println("A soma é igual a: "+resp);
         
     }
     //criando um método com parâmentos e com retorno;
